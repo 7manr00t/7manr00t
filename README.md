@@ -26,7 +26,7 @@ Most security content in the region is written in English for people who already
 | Lane | Where I am | Where I'm going |
 |---|---|---|
 | **Offensive security** | Foundations through hands-on labs | HTB CPTS, then OSCP |
-| **GRC & audit** | Mapping CBB Rulebook requirements to ISO 27001 and NIST CSF 2.0 | Applied assurance work; CISA if an employer funds it |
+| **GRC & audit** | Mapping CBB Rulebook requirements to ISO 27001 and NIST CSF 2.0 | Applied assurance work; CISA  |
 | **Cloud & fundamentals** | AWS Cloud Practitioner certified | CompTIA Security+ |
 
 Offence is the lane I find genuinely interesting. GRC is the income floor. Doing both is deliberate — auditors who have never seen an exploit write controls that look correct on paper.
